@@ -2,7 +2,7 @@
 <manifest>
   
   <!--Trees-->
-  <project path="device/tcl/tb8765ap1_bsp" name="YZBruh/lineage_device_tcl_tb8765ap1_bsp.git" remote="github" revision="lineage-18.1" />
-  <project path="vendor/tcl/tb8765ap1_bsp" name="YZBruh/android_vendor_tcl_tb8765ap1_bsp.git" remote="github" revision="lineage-18.1" />
+  <project path="device/tcl/tb8765ap1_bsp" name="TZBruh/arrow_device_tcl_tb8765ap1_bsp.git" remote="github" revision="arrow-13.1" />
+  <project path="vendor/tcl/tb8765ap1_bsp" name="TZBruh/android_vendor_tcl_tb8765ap1_bsp.git" remote="github" revision="arrow-13.1" />
 
 </manifest>
